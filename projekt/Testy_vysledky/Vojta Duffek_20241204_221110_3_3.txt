@@ -1,0 +1,14 @@
+Vypracoval/a: Vojta Duffek
+Otázek v testu: 3
+Výsledná známka: 3
+Procentní úspěšnost: 66.67 %
+Stupnice: {1: (90, 100), 2: (75, 90), 3: (60, 75), 4: (45, 60), 5: (0, 45)}
+Datum a čas vyhodnocení: 04.12.2024, 22:11:10
+
+Chybně zodpovězeno:
+
+Otázka: Jaký typ hodnot lze iterovat pomocí `for` v Pythonu?
+Pouze řetězce.
+Pouze seznamy.
+Seznamy, řetězce a rozsahy (`range`).
+Pouze čísla.
