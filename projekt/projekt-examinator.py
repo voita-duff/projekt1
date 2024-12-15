@@ -57,7 +57,7 @@ def load_questions_from_directory():
                         for i, line in enumerate(lines):
                             # Prvni radek je otazka
                             if (i == 0):
-                                 question['title'] = lines[i][9:].strip()
+                                 question['title'] = lines[i][8:].strip() ###
                             # Dalsi radky jsou odpovedi
                             else:
                                  # Je to spravna odpoved?
@@ -104,7 +104,7 @@ def ask_question(question, index):
         print(f"{i + 1}. {answer}")
 
     # POUZE TEST: vypis spravne odpovedi
-    # print(Fore.MAGENTA + f"({question['correct']})" + Style.RESET_ALL)
+    ####print(Fore.MAGENTA + f"({question['correct']})" + Style.RESET_ALL)
 
     print()
     

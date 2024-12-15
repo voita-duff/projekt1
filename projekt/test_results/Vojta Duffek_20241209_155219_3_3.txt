@@ -1,0 +1,14 @@
+Vypracoval/a: Vojta Duffek
+Otázek v testu: 3
+Výsledná známka: 3
+Procentní úspěšnost: 66.67 %
+Stupnice: {1: (90, 100), 2: (75, 90), 3: (60, 75), 4: (45, 60), 5: (0, 45)}
+Datum a čas vyhodnocení: 09.12.2024, 15:52:19
+
+Chybně zodpovězeno:
+
+Otázka: Co znamená podmínka v cyklu `while`?
+Určuje počet iterací cyklu.
+Je to volání funkce.
+Je to příkaz k opakování.
+Je to logická podmínka, která určuje, kdy cyklus skončí.
