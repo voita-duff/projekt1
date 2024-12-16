@@ -1,0 +1,107 @@
+Autor: Vojtěch Duffek
+
+
+Otázka: Jakou hodnotu musí mít podmínka v cyklu while, aby se cyklus spustil?
+0; False
+0; None
+1; True
+0; 0
+
+
+Otázka: Co se stane, pokud se v těle cyklu while nenachází žádný způsob, jak změnit podmínku?
+1; Cyklus se stane nekonečným.
+0; Cyklus se automaticky zastaví.
+0; Python vyvolá chybu.
+0; Cyklus proběhne pouze jednou.
+
+
+Otázka: Jaká je funkce klíčového slova else v cyklu while?
+0; Ukončí cyklus před jeho začátkem.
+1; Spustí blok kódu, pokud cyklus skončí normálně (bez break).
+0; Opakuje poslední iteraci cyklu.
+0; Spustí blok kódu při splnění podmínky.
+
+
+Otázka: Jaký je efekt příkazu break v cyklu while?
+1; Okamžitě ukončí cyklus.
+0; Přeskočí aktuální iteraci a pokračuje další.
+0; Změní hodnotu podmínky na False.
+0; Zastaví pouze aktuální blok kódu.
+
+
+Otázka: Co se stane, pokud je podmínka v cyklu while vždy False?
+0; Cyklus poběží jednou.
+1; Cyklus se nikdy nespustí.
+0; Python vyvolá chybu.
+0; Program se zastaví.
+
+
+Otázka: Jak lze bezpečně ukončit nekonečný cyklus while True?
+1; Použitím příkazu break.
+0; Použitím příkazu continue.
+0; Změnou podmínky cyklu na False.
+0; Restartováním programu.
+
+
+Otázka: Kdy se spustí blok else u cyklu while?
+0; Při každé iteraci cyklu.
+1; Pokud cyklus skončí bez použití break.
+0; Pokud podmínka nikdy nebyla True.
+0; Pouze pokud byl cyklus prázdný.
+
+
+Otázka: Jaké typy hodnot lze použít jako podmínku v cyklu while?
+1; Libovolné hodnoty, které lze vyhodnotit jako pravdivé nebo nepravdivé.
+0; Pouze logické hodnoty.
+0; Pouze čísla.
+0; Pouze řetězce.
+
+
+Otázka: Jaký je rozdíl mezi break a continue v cyklu while?
+1; break ukončí cyklus, zatímco continue přeskočí aktuální iteraci.
+0; break přeskočí iteraci, zatímco continue ukončí cyklus.
+0; Oba příkazy ukončí cyklus.
+0; Oba příkazy mají stejný efekt.
+
+
+Otázka: Jaká je role příkazu pass v těle cyklu while?
+1; Neprovádí žádnou operaci a slouží jako zástupce.
+0; Ukončuje cyklus.
+0; Přeskočí aktuální iteraci cyklu.
+0; Nastaví podmínku na False.
+
+
+Otázka: Jak lze sledovat počet iterací cyklu while?
+1; Použitím počitadla, které se při každé iteraci mění.
+0; Použitím příkazu continue.
+0; Python to sleduje automaticky.
+0; Cyklus while nesleduje počet iterací.
+
+
+Otázka: Co se stane, pokud je v cyklu while příkaz break?
+1; Cyklus se ukončí okamžitě.
+0; Cyklus pokračuje další iterací.
+0; Python vyvolá chybu.
+0; Podmínka cyklu se změní na False.
+
+
+Otázka: Co znamená použití podmínky not v cyklu while?
+1; Otočí logickou hodnotu podmínky.
+0; Ukončí cyklus.
+0; Zajistí, že cyklus poběží jen jednou.
+0; Přeskočí aktuální iteraci.
+
+
+Otázka: Jaký je nejlepší způsob, jak zajistit, aby cyklus while vždy skončil?
+1; Použitím podmínky, která se může stát False, nebo příkazu break.
+0; Použitím pouze příkazu continue.
+0; Cyklus while se nikdy nesmí ukončit.
+0; Přidáním bloku else.
+
+
+Otázka: K čemu slouží podmínka v cyklu while?
+0; Určuje počet iterací cyklu.
+1; Řídí, zda se cyklus bude dále spouštět.
+0; Udává, kdy se cyklus ukončí.
+0; Označuje typ hodnot v cyklu.
+

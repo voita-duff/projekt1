@@ -1,0 +1,99 @@
+Autor: Vojtěch Duffek
+
+
+Otázka: Jaký typ objektů lze iterovat pomocí for cyklu?
+1; Sekvence, jako jsou seznamy, řetězce a range.
+0; Pouze seznamy.
+0; Pouze číselné hodnoty.
+0; Pouze iterátory vytvořené funkcí iter().
+
+
+Otázka: Co vrátí funkce range(5) při použití v cyklu for?
+0; Sekvenci od 1 do 5.
+1; Sekvenci od 0 do 4.
+0; Sekvenci obsahující jen 5.
+0; Nic, je to chybný příkaz.
+
+
+Otázka: Jak iterovat přes klíče slovníku v cyklu for?
+1; Použitím metody dict.keys().
+0; Použitím metody dict.values().
+0; Pomocí funkce iter().
+0; Slovníky nelze iterovat.
+
+
+Otázka: Co označuje proměnná v for cyklu?
+0; Celkový počet iterací.
+0; Typ aktuálního prvku.
+1; Aktuální prvek sekvence.
+0; Začátek cyklu.
+
+
+Otázka: Jaký bude výsledek použití break v cyklu for?
+1; Cyklus se okamžitě ukončí.
+0; Cyklus se přeskočí do další iterace.
+0; Cyklus se zastaví až na konci sekvence.
+0; Cyklus ignoruje příkaz break.
+
+
+Otázka: Jak iterovat přes indexy i hodnoty seznamu zároveň?
+1; Použitím funkce enumerate().
+0; Použitím funkce zip().
+0; Použitím funkce range(len(list)).
+0; Python to nepodporuje.
+
+
+Otázka: Co se stane, pokud je for cyklus prázdný?
+0; Python vyvolá chybu.
+1; Nic, cyklus se normálně provede.
+0; Cyklus se nikdy nespustí.
+0; Cyklus se ukončí s výstrahou.
+
+
+Otázka: Co dělá příkaz continue v for cyklu?
+1; Přeskočí aktuální iteraci a pokračuje další.
+0; Ukončí celý cyklus.
+0; Změní pořadí iterací.
+0; Zastaví Python.
+
+
+Otázka: Co se stane, pokud iterujeme přes prázdný seznam?
+1; Cyklus se nespustí vůbec.
+0; Python vyvolá chybu.
+0; Cyklus se provede jednou.
+0; Proměnná bude obsahovat hodnotu None.
+
+
+Otázka: Jak iterovat přes více seznamů najednou?
+1; Použitím funkce zip().
+0; Použitím funkce enumerate().
+0; Použitím funkce range().
+0; Python to nepodporuje.
+
+
+Otázka: Jak iterovat přes řetězec znak po znaku?
+1; Použitím for cyklu přímo na řetězci.
+0; Použitím funkce split().
+0; Python nepodporuje iteraci přes řetězce.
+0; Použitím indexování a cyklu while.
+
+
+Otázka: Jak vytvořit reverzní iteraci přes seznam?
+1; Použitím funkce reversed().
+0; Použitím funkce range().
+0; Použitím funkce enumerate().
+0; To není možné v Pythonu.
+
+
+Otázka: Co znamená příkaz else v cyklu for?
+1; Spustí kód po dokončení všech iterací bez break.
+0; Ukončí cyklus, pokud podmínka není splněna.
+0; Opakuje poslední iteraci cyklu.
+0; Vždy spustí kód před začátkem cyklu.
+
+
+Otázka: Jak lze iterovat přes seznam, ale pouze pro sudé indexy?
+1; Použitím for cyklu s range() s krokem 2.
+0; Použitím for cyklu a funkce enumerate().
+0; Použitím while cyklu.
+0; Python to nepodporuje.

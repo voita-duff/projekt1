@@ -14,8 +14,8 @@ GRADES = {
 }
 
 # Adresare ke zdrojum otazek a vysledkum testu
-QUESTIONS_FOLDER = "test_questions"
-RESULTS_FOLDER = "test_results"
+QUESTIONS_FOLDER = "Testy_zdroj_otazek"
+RESULTS_FOLDER = "Testy_vysledky"
 
 # Zmena working dir na projektovy root
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
