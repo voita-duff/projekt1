@@ -1,0 +1,20 @@
+Vypracoval/a: vojtech duffek
+Otázek v testu: 3
+Výsledná známka: 5
+Procentní úspěšnost: 33.33 %
+Stupnice: {1: (90, 100), 2: (75, 90), 3: (60, 75), 4: (45, 60), 5: (0, 45)}
+Datum a čas vyhodnocení: 22.12.2024, 11:08:00
+
+Chybně zodpovězeno:
+
+Otázka: Jak iterovat přes indexy i hodnoty seznamu zároveň?
+Použitím funkce range(len(list)).
+Použitím funkce zip().
+Python to nepodporuje.
+Použitím funkce enumerate().
+
+Otázka: K čemu slouží podmínka v cyklu while?
+Řídí, zda se cyklus bude dále spouštět.
+Označuje typ hodnot v cyklu.
+Určuje počet iterací cyklu.
+Udává, kdy se cyklus ukončí.

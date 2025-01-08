@@ -77,8 +77,12 @@ def shuffle_answers(questions):
 
 # Zepta se na cele jmeno
 def get_full_name():
-    full_name = input("Zadejte své celé jméno: ")
-    return full_name
+    while True:
+        full_name = input("Zadejte své celé jméno: ")
+        if full_name != "":
+            return full_name
+        else:
+            break
 
 # Zepta se pocet otazek
 def get_questions_count(total_questions):
